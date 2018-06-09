@@ -1,13 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Wed Apr 11 15:33:14 2018
-Modified May 31, 2018
-
 Note:  enumerate is a type, not a function, as
 it returns instances of the enumerate type
-
-@author: Kirby Urner
 """
 import matplotlib.pyplot as plt
 import numpy as np
